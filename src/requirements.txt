@@ -1,5 +1,5 @@
 Django==2.1.5
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 requests==2.21.0
 transmissionrpc==0.11
 # forked version including languages
